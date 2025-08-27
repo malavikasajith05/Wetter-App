@@ -94,7 +94,9 @@ This app uses the [Open-Meteo API](https://open-meteo.com/), which provides:
 
 
 ---
+
 Regards,
+
 Malavika Sajith
 
 
