@@ -1,12 +1,10 @@
-# Wetter-App
-Modern weather app built with React, TypeScript, and Tailwind CSS
-# Weather App 🌤️
+# Wetter-App 🌤️
 
-A modern, responsive weather application built with React, TypeScript, and Tailwind CSS. Get current weather conditions, 5-day forecasts, and hourly predictions for any location worldwide.
+A modern, responsive weather application built with React, TypeScript, and Tailwind CSS. Get current weather conditions, 5-day forecasts, and hourly predictions for any location in Germany.
 
 ## 🚀 Live Demo
 
-[View Live App](https://yourusername.github.io/weather-app/) *(Replace with your actual GitHub username)*
+[View Live App](https://malavikasajith05.github.io/Wetter-App/) 
 
 ## ✨ Features
 
@@ -16,7 +14,7 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 - **Location Search**: Search for weather in any city worldwide
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Real-time Clock**: Live updating time display
-- **Modern UI**: Clean, intuitive interface with smooth animations
+- **Modern UI**: Clean, intuitive responsive interface.
 
 ## 🛠️ Technologies Used
 
@@ -39,7 +37,7 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 1. Clone the repository:
 
    git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   cd Wetter-App
    
 
 2. Install dependencies:
@@ -57,7 +55,7 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 ## 🏗️ Project Structure
 
 ```
-weather-app/
+wetter-app/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── WeatherApp.tsx   # Main app component
@@ -90,12 +88,13 @@ This app uses the [Open-Meteo API](https://open-meteo.com/), which provides:
 - Hourly forecasts for 7 days
 - Daily forecasts for 16 days
 - No API key required
-- Free tier with generous rate limits
 
 
 
 
 
 ---
+Regards,
+Malavika Sajith
 
-⭐ If you found this project helpful, please give it a star on GitHub!
+
