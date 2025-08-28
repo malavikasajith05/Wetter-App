@@ -36,7 +36,7 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/Wetter-App.git
+   git clone https://malavikasajith05.github.io/Wetter-App/.git
    cd Wetter-App
    
 
