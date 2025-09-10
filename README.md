@@ -11,7 +11,7 @@ A modern, responsive weather application built with React, TypeScript, and Tailw
 - **Current Weather**: Real-time temperature, weather conditions, and wind speed
 - **5-Day Forecast**: Daily high/low temperatures with weather icons
 - **Hourly Forecast**: 24-hour temperature and weather predictions
-- **Location Search**: Search for weather in any city worldwide
+- **Location Search**: Search for weather in any city in Germany
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Real-time Clock**: Live updating time display
 - **Modern UI**: Clean, intuitive responsive interface.
